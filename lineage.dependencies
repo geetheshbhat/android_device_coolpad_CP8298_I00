@@ -1,0 +1,12 @@
+[
+  {
+    "remote": "gitlab",
+    "repository": "Ghost_76/android_vendor_coolpad_CP8298_I00",
+    "target_path": "vendor/coolpad/CP8298_I00",
+  },
+  {
+    "remote": "gitlab",
+    "repository": "Ghost_76/android_kernel_coolpad_CP8298_I00",
+    "target_path": "kernel/coolpad/CP8298_I00",
+  }
+]

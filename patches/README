@@ -1,0 +1,7 @@
+This is patch directory
+
+repo sync
+
+cd WORKING_DIR
+sh device/coolpad/CP8298_I00/patches/install.sh
+sh device/coolpad/CP8298_I00/patches/uninstall.sh
