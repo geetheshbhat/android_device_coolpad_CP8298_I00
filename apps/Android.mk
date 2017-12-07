@@ -15,7 +15,6 @@
 #
 
 LOCAL_PATH := $(call my-dir)
-
 include $(CLEAR_VARS)
 LOCAL_MODULE := FootejCamera
 LOCAL_SRC_FILES := Footej/$(LOCAL_MODULE).apk
