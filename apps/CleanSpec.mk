@@ -12,5 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/FootejCamera)
