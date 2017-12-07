@@ -1,10 +1,3 @@
-From 6d52874f8444716944dfc6c4dd74dd93b0a2a75d Mon Sep 17 00:00:00 2001
-From: Wang Xuerui <idontknw.wang@gmail.com>
-Date: Fri, 30 Sep 2016 21:00:47 +0800
-Subject: [PATCH] init: HACK re-allow services without selinux contexts defined
-
-Change-Id: I1c83d5fb9b84acb27f705e1b3042b63ff095c7e7
----
  init/init.cpp    | 4 +++-
  init/service.cpp | 2 ++
  2 files changed, 5 insertions(+), 1 deletion(-)

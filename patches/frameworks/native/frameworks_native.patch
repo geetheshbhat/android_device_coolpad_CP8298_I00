@@ -1,10 +1,3 @@
-From f0f2ca59f333ee11e0acf916d78eb3ad46a3d6ed Mon Sep 17 00:00:00 2001
-From: mdeejay <mdjrussia@gmail.com>
-Date: Thu, 6 Jul 2017 01:37:56 +0700
-Subject: changes for MTK
-
-Change-Id: Idd9054e896fc2763188f34b26e2c63b2a55bac20
-
 diff --git a/include/batteryservice/BatteryService.h b/include/batteryservice/BatteryService.h
 index 50a01ba6d..884d6eef6 100644
 --- a/include/batteryservice/BatteryService.h

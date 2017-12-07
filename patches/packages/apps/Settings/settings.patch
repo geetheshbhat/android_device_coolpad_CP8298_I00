@@ -1,10 +1,4 @@
-From 3ead9d16053b0d295ed1fedec18e04a7b6585bbf Mon Sep 17 00:00:00 2001
-From: Jonathon Fitch <lightman1@virginmedia.com>
-Date: Mon, 19 Dec 2016 12:26:13 +0200
-Subject: [PATCH] add author info in device info
 
-Change-Id: Id3c6e3dfad2e349e39eeecd7539d24acbd3f271b
----
  res/values/strings.xml                           |  4 ++++
  res/xml/device_info_settings.xml                 |  8 ++++++++
  src/com/android/settings/DeviceInfoSettings.java | 11 +++++++++++

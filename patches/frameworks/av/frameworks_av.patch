@@ -1,9 +1,3 @@
-commit 57f1f0ec7b748dc9aadb79f1213b7ac4fa3ceb8e
-Author: mohancm100 <mohanmanjappa@gmail.com>
-Date:   Sat Apr 29 21:25:17 2017 +0530
-
-Change-Id: Ibeff7aa003e9d1981e05a339048cfcabe30a03f1
-
 diff --git a/camera/CameraParameters.cpp b/camera/CameraParameters.cpp
 index 76f92e715..38cdc5f97 100644
 --- a/camera/CameraParameters.cpp
