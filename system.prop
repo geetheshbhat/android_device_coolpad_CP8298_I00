@@ -116,3 +116,6 @@ persist.sys.fp.touch=1
 
 # frp
 ro.frp.pst=/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/frp
+
+#OTA(dot os)
+persist.ota.manifest=https://gitlab.com/Ghost_76/CP8XXX_I0X_OTA/raw/master/CP8298_I00.xml
