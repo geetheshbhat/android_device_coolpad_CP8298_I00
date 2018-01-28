@@ -2,6 +2,7 @@ diff --git a/app/src/main/java/com/ota/updates/utils/Constants.java b/app/src/ma
 --- a/app/src/main/java/com/ota/updates/utils/Constants.java
 +++ b/app/src/main/java/com/ota/updates/utils/Constants.java
 new file mode 100644
+index f2a1d8b..ba61977 100644
 @@ -0,0 +1,73 @@
 +/*
 + * Copyright (C) 2015 Matt Booth (Kryten2k35).
