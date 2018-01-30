@@ -13,3 +13,4 @@
 # limitations under the License.
 #
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/FootejCamera)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/EngineerMode)
